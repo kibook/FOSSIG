@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<dmtypes>
+  <type infoCode="001" schema="frontmatter" infoName="Title page"/>
+  <type infoCode="005" schema="descript" infoName="List of abbreviations"/>
+  <type infoCode="009" schema="descript"/>
+  <type infoCode="022" schema="brex" infoName="Business rules"/>
+  <type infoCode="040" schema="descript"/>
+</dmtypes>

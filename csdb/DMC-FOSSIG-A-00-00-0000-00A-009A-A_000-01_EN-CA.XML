@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dmodule>
+<dmodule xmlns:dc="http://www.purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.s1000d.org/S1000D_4-2/xml_schema_flat/descript.xsd">
+  <identAndStatusSection>
+    <dmAddress>
+      <dmIdent>
+        <dmCode modelIdentCode="FOSSIG" systemDiffCode="A" systemCode="00" subSystemCode="0" subSubSystemCode="0" assyCode="0000" disassyCode="00" disassyCodeVariant="A" infoCode="009" infoCodeVariant="A" itemLocationCode="A"/>
+        <language languageIsoCode="en" countryIsoCode="CA"/>
+        <issueInfo issueNumber="000" inWork="01"/>
+      </dmIdent>
+      <dmAddressItems>
+        <issueDate year="2019" month="01" day="09"/>
+        <dmTitle>
+          <techName>Table of contents</techName>
+        </dmTitle>
+      </dmAddressItems>
+    </dmAddress>
+    <dmStatus issueType="new">
+      <security securityClassification="01"/>
+      <responsiblePartnerCompany>
+        <enterpriseName>khzae.net</enterpriseName>
+      </responsiblePartnerCompany>
+      <originator>
+        <enterpriseName>khzae.net</enterpriseName>
+      </originator>
+      <applic>
+        <displayText>
+          <simplePara>All</simplePara>
+        </displayText>
+      </applic>
+      <brexDmRef>
+        <dmRef>
+          <dmRefIdent>
+            <dmCode modelIdentCode="FOSSIG" systemDiffCode="A" systemCode="00" subSystemCode="0" subSubSystemCode="0" assyCode="0000" disassyCode="00" disassyCodeVariant="A" infoCode="022" infoCodeVariant="A" itemLocationCode="D"/>
+          </dmRefIdent>
+        </dmRef>
+      </brexDmRef>
+      <qualityAssurance>
+        <unverified/>
+      </qualityAssurance>
+    </dmStatus>
+  </identAndStatusSection>
+  <content>
+    <description>
+      <para>The listed documents are included in issue 000-01, dated 2019-01-09, of this publication.</para>
+      <table pgwide="1">
+        <tgroup cols="3">
+          <colspec colname="c1" colwidth="1*"/>
+          <colspec colname="c2" colwidth="3*"/>
+          <colspec colname="c3" colwidth="3*"/>
+          <thead>
+            <row>
+              <entry>
+                <para>Chapter</para>
+              </entry>
+              <entry>
+                <para>Title</para>
+              </entry>
+              <entry>
+                <para>Data module code</para>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <para>Chap 1</para>
+              </entry>
+              <entry>
+                <para>Introduction</para>
+              </entry>
+              <entry>
+                <para>
+                  <dmRef>
+                    <dmRefIdent>
+                      <dmCode modelIdentCode="FOSSIG" systemDiffCode="A" systemCode="01" subSystemCode="0" subSubSystemCode="0" assyCode="0000" disassyCode="00" disassyCodeVariant="A" infoCode="009" infoCodeVariant="A" itemLocationCode="A"/>
+                    </dmRefIdent>
+                    <dmRefAddressItems>
+                      <dmTitle>
+                        <techName>Chapter 1</techName>
+                        <infoName>Introduction</infoName>
+                      </dmTitle>
+                    </dmRefAddressItems>
+                  </dmRef>
+                </para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>Chap 1.1</para>
+              </entry>
+              <entry>
+                <para>Introduction to FOSSIG</para>
+              </entry>
+              <entry>
+                <para>
+                  <dmRef>
+                    <dmRefIdent>
+                      <dmCode modelIdentCode="FOSSIG" systemDiffCode="A" systemCode="01" subSystemCode="0" subSubSystemCode="1" assyCode="0000" disassyCode="00" disassyCodeVariant="A" infoCode="040" infoCodeVariant="A" itemLocationCode="A"/>
+                    </dmRefIdent>
+                    <dmRefAddressItems>
+                      <dmTitle>
+                        <techName>Chapter 1.1</techName>
+                        <infoName>Introduction to FOSSIG</infoName>
+                      </dmTitle>
+                    </dmRefAddressItems>
+                  </dmRef>
+                </para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>Chap 2</para>
+              </entry>
+              <entry>
+                <para>FOSSIG business rules</para>
+              </entry>
+              <entry>
+                <para>
+                  <dmRef>
+                    <dmRefIdent>
+                      <dmCode modelIdentCode="FOSSIG" systemDiffCode="A" systemCode="02" subSystemCode="0" subSubSystemCode="0" assyCode="0000" disassyCode="00" disassyCodeVariant="A" infoCode="009" infoCodeVariant="A" itemLocationCode="A"/>
+                    </dmRefIdent>
+                    <dmRefAddressItems>
+                      <dmTitle>
+                        <techName>Chapter 2</techName>
+                        <infoName>FOSSIG business rules</infoName>
+                      </dmTitle>
+                    </dmRefAddressItems>
+                  </dmRef>
+                </para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>Chap 2.1</para>
+              </entry>
+              <entry>
+                <para>FOSSIG business rule decisions</para>
+              </entry>
+              <entry>
+                <para>
+                  <dmRef>
+                    <dmRefIdent>
+                      <dmCode modelIdentCode="FOSSIG" systemDiffCode="A" systemCode="02" subSystemCode="0" subSubSystemCode="1" assyCode="0000" disassyCode="00" disassyCodeVariant="A" infoCode="040" infoCodeVariant="A" itemLocationCode="A"/>
+                    </dmRefIdent>
+                    <dmRefAddressItems>
+                      <dmTitle>
+                        <techName>Chapter 2.1</techName>
+                        <infoName>FOSSIG business rule decisions</infoName>
+                      </dmTitle>
+                    </dmRefAddressItems>
+                  </dmRef>
+                </para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>Chap 3</para>
+              </entry>
+              <entry>
+                <para>FOSSIG SNS</para>
+              </entry>
+              <entry>
+                <para>
+                  <dmRef>
+                    <dmRefIdent>
+                      <dmCode modelIdentCode="FOSSIG" systemDiffCode="A" systemCode="03" subSystemCode="0" subSubSystemCode="0" assyCode="0000" disassyCode="00" disassyCodeVariant="A" infoCode="009" infoCodeVariant="A" itemLocationCode="A"/>
+                    </dmRefIdent>
+                    <dmRefAddressItems>
+                      <dmTitle>
+                        <techName>Chapter 3</techName>
+                        <infoName>FOSSIG SNS</infoName>
+                      </dmTitle>
+                    </dmRefAddressItems>
+                  </dmRef>
+                </para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>Chap 3.1</para>
+              </entry>
+              <entry>
+                <para>FOSSIG Standard Numbering System</para>
+              </entry>
+              <entry>
+                <para>
+                  <dmRef>
+                    <dmRefIdent>
+                      <dmCode modelIdentCode="FOSSIG" systemDiffCode="A" systemCode="03" subSystemCode="0" subSubSystemCode="1" assyCode="0000" disassyCode="00" disassyCodeVariant="A" infoCode="040" infoCodeVariant="A" itemLocationCode="A"/>
+                    </dmRefIdent>
+                    <dmRefAddressItems>
+                      <dmTitle>
+                        <techName>Chapter 3.1</techName>
+                        <infoName>FOSSIG Standard Numbering System</infoName>
+                      </dmTitle>
+                    </dmRefAddressItems>
+                  </dmRef>
+                </para>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </description>
+  </content>
+</dmodule>

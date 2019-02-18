@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pm [
+<!NOTATION PNG SYSTEM "PNG" >
+<!ENTITY ICN-FOSSIG-A-00000000-A-KHZAE-00001-A-001-01 SYSTEM "ICN-FOSSIG-A-00000000-A-KHZAE-00001-A-001-01.PNG" NDATA PNG>
+]>
+<pm xmlns:dc="http://www.purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.s1000d.org/S1000D_4-2/xml_schema_flat/pm.xsd">
+  <identAndStatusSection>
+    <pmAddress>
+      <pmIdent>
+        <pmCode modelIdentCode="FOSSIG" pmIssuer="KHZAE" pmNumber="00001" pmVolume="00"/>
+        <language languageIsoCode="en" countryIsoCode="CA"/>
+        <issueInfo issueNumber="000" inWork="01"/>
+      </pmIdent>
+      <pmAddressItems>
+        <issueDate year="2019" month="01" day="09"/>
+        <pmTitle>S1000D Free Open Source Software Interest Group</pmTitle>
+      </pmAddressItems>
+    </pmAddress>
+    <pmStatus>
+      <security securityClassification="01"/>
+      <logo>
+        <symbol infoEntityIdent="ICN-FOSSIG-A-00000000-A-KHZAE-00001-A-001-01" reproductionHeight="12mm"/>
+      </logo>
+      <responsiblePartnerCompany>
+        <enterpriseName>khzae.net</enterpriseName>
+      </responsiblePartnerCompany>
+      <applic>
+        <displayText>
+          <simplePara>All</simplePara>
+        </displayText>
+      </applic>
+      <brexDmRef>
+        <dmRef>
+          <dmRefIdent>
+            <dmCode modelIdentCode="S1000D" systemDiffCode="F" systemCode="04" subSystemCode="1" subSubSystemCode="0" assyCode="0301" disassyCode="00" disassyCodeVariant="A" infoCode="022" infoCodeVariant="A" itemLocationCode="D"/>
+          </dmRefIdent>
+        </dmRef>
+      </brexDmRef>
+      <qualityAssurance>
+        <unverified/>
+      </qualityAssurance>
+    </pmStatus>
+  </identAndStatusSection>
+  <content>
+    <pmEntry>
+      <pmEntryTitle>Front matter</pmEntryTitle>
+      <dmRef>
+        <dmRefIdent>
+          <dmCode modelIdentCode="FOSSIG" systemDiffCode="A" systemCode="00" subSystemCode="0" subSubSystemCode="0" assyCode="0000" disassyCode="00" disassyCodeVariant="A" infoCode="001" infoCodeVariant="A" itemLocationCode="A"/>
+        </dmRefIdent>
+        <dmRefAddressItems>
+          <dmTitle>
+            <techName>S1000D Free Open Source Software Interest Group</techName>
+            <infoName>Title page</infoName>
+          </dmTitle>
+        </dmRefAddressItems>
+      </dmRef>
+      <dmRef>
+        <dmRefIdent>
+          <dmCode modelIdentCode="FOSSIG" systemDiffCode="A" systemCode="00" subSystemCode="0" subSubSystemCode="0" assyCode="0000" disassyCode="00" disassyCodeVariant="A" infoCode="005" infoCodeVariant="A" itemLocationCode="A"/>
+        </dmRefIdent>
+        <dmRefAddressItems>
+          <dmTitle>
+            <techName>S1000D Free Open Source Software Interest Group</techName>
+            <infoName>List of abbreviations</infoName>
+          </dmTitle>
+        </dmRefAddressItems>
+      </dmRef>
+      <dmRef>
+        <dmRefIdent>
+          <dmCode modelIdentCode="FOSSIG" systemDiffCode="A" systemCode="00" subSystemCode="0" subSubSystemCode="0" assyCode="0000" disassyCode="00" disassyCodeVariant="A" infoCode="009" infoCodeVariant="A" itemLocationCode="A"/>
+        </dmRefIdent>
+        <dmRefAddressItems>
+          <dmTitle>
+            <techName>Table of contents</techName>
+            <infoName>Introduction</infoName>
+          </dmTitle>
+        </dmRefAddressItems>
+      </dmRef>
+    </pmEntry>
+    <pmEntry>
+      <pmEntryTitle>Chapter 1 - Introduction</pmEntryTitle>
+      <dmRef>
+        <dmRefIdent>
+          <dmCode modelIdentCode="FOSSIG" systemDiffCode="A" systemCode="01" subSystemCode="0" subSubSystemCode="0" assyCode="0000" disassyCode="00" disassyCodeVariant="A" infoCode="009" infoCodeVariant="A" itemLocationCode="A"/>
+        </dmRefIdent>
+        <dmRefAddressItems>
+          <dmTitle>
+            <techName>Chapter 1</techName>
+            <infoName>Introduction</infoName>
+          </dmTitle>
+        </dmRefAddressItems>
+      </dmRef>
+      <dmRef>
+        <dmRefIdent>
+          <dmCode modelIdentCode="FOSSIG" systemDiffCode="A" systemCode="01" subSystemCode="0" subSubSystemCode="1" assyCode="0000" disassyCode="00" disassyCodeVariant="A" infoCode="040" infoCodeVariant="A" itemLocationCode="A"/>
+        </dmRefIdent>
+        <dmRefAddressItems>
+          <dmTitle>
+            <techName>Chapter 1.1</techName>
+            <infoName>Introduction to FOSSIG</infoName>
+          </dmTitle>
+        </dmRefAddressItems>
+      </dmRef>
+    </pmEntry>
+    <pmEntry>
+      <pmEntryTitle>Chapter 2 - Business rules</pmEntryTitle>
+      <dmRef>
+        <dmRefIdent>
+          <dmCode modelIdentCode="FOSSIG" systemDiffCode="A" systemCode="02" subSystemCode="0" subSubSystemCode="0" assyCode="0000" disassyCode="00" disassyCodeVariant="A" infoCode="009" infoCodeVariant="A" itemLocationCode="A"/>
+        </dmRefIdent>
+        <dmRefAddressItems>
+          <dmTitle>
+            <techName>Chapter 2</techName>
+            <infoName>FOSSIG business rules</infoName>
+          </dmTitle>
+        </dmRefAddressItems>
+      </dmRef>
+      <dmRef>
+        <dmRefIdent>
+          <dmCode modelIdentCode="FOSSIG" systemDiffCode="A" systemCode="02" subSystemCode="0" subSubSystemCode="1" assyCode="0000" disassyCode="00" disassyCodeVariant="A" infoCode="040" infoCodeVariant="A" itemLocationCode="A"/>
+        </dmRefIdent>
+        <dmRefAddressItems>
+          <dmTitle>
+            <techName>Chapter 2.1</techName>
+            <infoName>FOSSIG business rule decisions</infoName>
+          </dmTitle>
+        </dmRefAddressItems>
+      </dmRef>
+    </pmEntry>
+    <pmEntry>
+      <pmEntryTitle>Chapter 3 - SNS</pmEntryTitle>
+      <dmRef>
+        <dmRefIdent>
+          <dmCode modelIdentCode="FOSSIG" systemDiffCode="A" systemCode="03" subSystemCode="0" subSubSystemCode="0" assyCode="0000" disassyCode="00" disassyCodeVariant="A" infoCode="009" infoCodeVariant="A" itemLocationCode="A"/>
+        </dmRefIdent>
+        <dmRefAddressItems>
+          <dmTitle>
+            <techName>Chapter 3</techName>
+            <infoName>FOSSIG SNS</infoName>
+          </dmTitle>
+        </dmRefAddressItems>
+      </dmRef>
+      <dmRef>
+        <dmRefIdent>
+          <dmCode modelIdentCode="FOSSIG" systemDiffCode="A" systemCode="03" subSystemCode="0" subSubSystemCode="1" assyCode="0000" disassyCode="00" disassyCodeVariant="A" infoCode="040" infoCodeVariant="A" itemLocationCode="A"/>
+        </dmRefIdent>
+        <dmRefAddressItems>
+          <dmTitle>
+            <techName>Chapter 3.1</techName>
+            <infoName>FOSSIG Standard Numbering System</infoName>
+          </dmTitle>
+        </dmRefAddressItems>
+      </dmRef>
+    </pmEntry>
+  </content>
+</pm>

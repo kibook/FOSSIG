@@ -1,6 +1,6 @@
 # Purpose
 
-The purpose of the FOSSIG (Free Open Source Software Interest Group) is:
+The purpose of the Free Open Source Software Interest Group (FOSSIG) is:
 
   - to apply S1000D to the documentation of free software
 
@@ -15,8 +15,8 @@ decision points.
 ![Layered business rule
 structure](csdb/ICN-FOSSIG-A-00000000-A-KHZAE-00002-A-001-01.PNG)
 
-Another goal is to develop and maintain a generic SNS (Standard
-Numbering System) that captures common requirements of free software
+Another goal is to develop and maintain a generic Standard Numbering
+System (SNS) that captures common requirements of free software
 projects.
 
 # More information

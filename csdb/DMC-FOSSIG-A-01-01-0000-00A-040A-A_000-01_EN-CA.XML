@@ -58,9 +58,9 @@
           <graphic infoEntityIdent="ICN-FOSSIG-A-00000000-A-KHZAE-00002-A-001-01" reproductionWidth="100mm"/>
         </figure>
         <para>Another goal is to develop and maintain a generic <acronym acronymType="at01"><acronymTerm>SNS</acronymTerm><acronymDefinition id="acr-SNS">Standard Numbering System</acronymDefinition></acronym> that captures common requirements of free software projects.</para>
-        </levelledPara>
-        <levelledPara>
-          <title>More information</title>
+      </levelledPara>
+      <levelledPara>
+        <title>More information</title>
         <para>Additional information on S1000D and <acronymTerm internalRefId="acr-FOSSIG">FOSSIG</acronymTerm> can be found online at <externalPubRef xlink:href="http://www.s1000d.org"><externalPubRefIdent><externalPubCode>http://www.s1000d.org</externalPubCode></externalPubRefIdent></externalPubRef> and <externalPubRef xlink:href="http://khzae.net/1/s1000d/fossig"><externalPubRefIdent><externalPubCode>http://khzae.net/1/s1000d/fossig</externalPubCode></externalPubRefIdent></externalPubRef> respectively.</para>
       </levelledPara>
     </description>

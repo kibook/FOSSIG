@@ -44,7 +44,20 @@
   <content>
     <description>
       <para>
-        <definitionList><definitionListItem><listItemTerm>FOSSIG</listItemTerm><listItemDefinition><para>Free Open Source Software Interest Group</para></listItemDefinition></definitionListItem><definitionListItem><listItemTerm>SNS</listItemTerm><listItemDefinition><para>Standard Numbering System</para></listItemDefinition></definitionListItem></definitionList>
+        <definitionList>
+          <definitionListItem>
+            <listItemTerm>FOSSIG</listItemTerm>
+            <listItemDefinition>
+              <para>Free Open Source Software Interest Group</para>
+            </listItemDefinition>
+          </definitionListItem>
+          <definitionListItem>
+            <listItemTerm>SNS</listItemTerm>
+            <listItemDefinition>
+              <para>Standard Numbering System</para>
+            </listItemDefinition>
+          </definitionListItem>
+        </definitionList>
       </para>
     </description>
   </content>

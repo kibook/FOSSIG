@@ -13,10 +13,10 @@ OUTPUT=FOSSIG-KHZAE-00001-00.pdf
 all: $(OUTPUT)
 
 DMC-FOSSIG-A-00-00-0000-00A-001A-A_%_EN-CA.XML: PMC-FOSSIG-KHZAE-00001-00_%_EN-CA.XML
-	s1kd-fmgen -P $^ -f $@
+	s1kd-fmgen -P $^ $@ | xml-format -o $@
 
 DMC-FOSSIG-A-00-00-0000-00A-005A-A_%_EN-CA.XML: DMC-*-040A-*.XML
-	s1kd-acronyms -dx $^ | xml-merge -f $@ -
+	s1kd-acronyms -dx $^ | xml-merge $@ - | xml-format -o $@
 
 $(OUTPUT): PMC-FOSSIG-KHZAE-00001-00_000-01_EN-CA.XML DMC-*.XML ICN-*.*
 	s1kd-flatten -x $< | s1kd2pdf -o $@ - $(PDF_PARAMS)

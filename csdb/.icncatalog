@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<icnCatalog>
+  <notation name="PNG" systemId="PNG"/>
+  <notation name="TXT" systemId="TXT"/>
+  <media name="gopher">
+    <icn infoEntityIdent="ICN-FOSSIG-A-00000000-A-KHZAE-00002-A-001-01" uri="ICN-FOSSIG-A-00000000-A-KHZAE-00002-A-001-01.TXT" notation="TXT"/>
+  </media>
+  <icn infoEntityIdent="ICN-FOSSIG-A-00000000-A-KHZAE-00001-A-001-01" uri="ICN-FOSSIG-A-00000000-A-KHZAE-00001-A-001-01.PNG" notation="PNG"/>
+  <icn infoEntityIdent="ICN-FOSSIG-A-00000000-A-KHZAE-00002-A-001-01" uri="ICN-FOSSIG-A-00000000-A-KHZAE-00002-A-001-01.PNG" notation="PNG"/>
+</icnCatalog>
